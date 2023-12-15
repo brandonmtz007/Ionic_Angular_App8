@@ -1,0 +1,7 @@
+{
+  "name": "localstoragetest4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
